@@ -56,6 +56,7 @@ describe("Module template", () => {
     expect(numberToEnglish(-65721.55531)).toEqual(
       "negative sixty-five thousand seven hundred and twenty-one point five five five three one"
     );
+    expect(numberToEnglish(32.89)).toEqual("thirty-two point eight nine");
     expect(numberToEnglish("6")).toEqual(
       "six",
       "strings that evaluate to numbers are ok"

@@ -128,7 +128,7 @@ function Fantas({ locales = null, fixed = 5 } = {}) {
       ).substr(-fixed, fixed);
 
       const first_n_decimals_string = first_n_decimals.replace(
-        /(.*)(0+)$/,
+        /([^0]*)(0+)$/,
         "$1"
       );
 
