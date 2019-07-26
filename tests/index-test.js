@@ -8,6 +8,7 @@ const numberToEnglish = fanta.transform;
 describe("Module template", () => {
   it("Correctly transform numbers", () => {
     expect(() => numberToEnglish(NaN)).toThrow();
+    expect(numberToEnglish(0)).toEqual("zero", "0 -> zero");
 
     expect(numberToEnglish(1)).toEqual("one", "1 -> one");
     expect(numberToEnglish(5)).toEqual("five", "5 -> five");
@@ -55,7 +56,6 @@ describe("Module template", () => {
     expect(numberToEnglish(-65721.55531)).toEqual(
       "negative sixty-five thousand seven hundred and twenty-one point five five five three one"
     );
-    expect(numberToEnglish(0)).toEqual("zero", "0 -> zero");
     expect(numberToEnglish("6")).toEqual(
       "six",
       "strings that evaluate to numbers are ok"
