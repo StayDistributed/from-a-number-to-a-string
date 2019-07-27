@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/from-a-number-to-a-string/static/css/main.34d43785.chunk.css",
-    "main.js": "/from-a-number-to-a-string/static/js/main.88d33e52.chunk.js",
-    "main.js.map": "/from-a-number-to-a-string/static/js/main.88d33e52.chunk.js.map",
+    "main.css": "/from-a-number-to-a-string/static/css/main.3e414114.chunk.css",
+    "main.js": "/from-a-number-to-a-string/static/js/main.8e8c83b9.chunk.js",
+    "main.js.map": "/from-a-number-to-a-string/static/js/main.8e8c83b9.chunk.js.map",
     "runtime~main.js": "/from-a-number-to-a-string/static/js/runtime~main.27b5e04a.js",
     "runtime~main.js.map": "/from-a-number-to-a-string/static/js/runtime~main.27b5e04a.js.map",
     "static/js/2.2216266c.chunk.js": "/from-a-number-to-a-string/static/js/2.2216266c.chunk.js",
     "static/js/2.2216266c.chunk.js.map": "/from-a-number-to-a-string/static/js/2.2216266c.chunk.js.map",
     "index.html": "/from-a-number-to-a-string/index.html",
-    "precache-manifest.8dec48b759d4275aeb34eacd0d8d9a60.js": "/from-a-number-to-a-string/precache-manifest.8dec48b759d4275aeb34eacd0d8d9a60.js",
+    "precache-manifest.3d1a415154be3980dac96b3bf3c1a46c.js": "/from-a-number-to-a-string/precache-manifest.3d1a415154be3980dac96b3bf3c1a46c.js",
     "service-worker.js": "/from-a-number-to-a-string/service-worker.js",
-    "static/css/main.34d43785.chunk.css.map": "/from-a-number-to-a-string/static/css/main.34d43785.chunk.css.map"
+    "static/css/main.3e414114.chunk.css.map": "/from-a-number-to-a-string/static/css/main.3e414114.chunk.css.map"
   }
 }

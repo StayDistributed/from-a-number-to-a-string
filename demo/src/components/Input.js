@@ -6,7 +6,7 @@ require("./Input.css");
 const Input = ({ ...props }) => {
   return (
     <div className="Input">
-      <input type="text" {...props} />
+      <input className="Input-input" type="text" {...props} />
     </div>
   );
 };
