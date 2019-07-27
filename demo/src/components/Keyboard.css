@@ -1,0 +1,17 @@
+.Keyboard {
+  margin: 0 auto;
+  width: 210px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
+}
+
+.Keyboard-digit {
+  display: block;
+  width: 70px;
+  height: 70px;
+  line-height: 70px;
+  text-align: center;
+  color: #fff;
+  font-size: 2em;
+}
