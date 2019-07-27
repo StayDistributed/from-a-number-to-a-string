@@ -2,6 +2,7 @@
   "name": "demo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://staydistributed.github.io/from-a-number-to-a-string/",
   "dependencies": {
     "@staydistributed/fantas": "^1.0.1",
     "react": "^16.8.6",

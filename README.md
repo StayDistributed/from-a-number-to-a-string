@@ -4,7 +4,19 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe from-a-number-to-a-string here.
+```
+$ npm i @staydistributed/fantas
+```
+
+```js
+import Fantas from "@staydistributed/fantas";
+
+const fromNumberToEnglish = new Fantas().transform;
+
+const str = fromNumberToEnglish(1); // return "one"
+```
+
+[https://staydistributed.github.io/from-a-number-to-a-string](https://staydistributed.github.io/from-a-number-to-a-string)
 
 [build-badge]: https://travis-ci.com/StayDistributed/from-a-number-to-a-string.svg?branch=master
 [build]: https://travis-ci.com/StayDistributed/from-a-number-to-a-string

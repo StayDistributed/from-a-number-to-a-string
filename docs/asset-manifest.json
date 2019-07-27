@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.34d43785.chunk.css",
-    "main.js": "/static/js/main.a29b85f0.chunk.js",
-    "main.js.map": "/static/js/main.a29b85f0.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.16ee1788.chunk.js": "/static/js/2.16ee1788.chunk.js",
-    "static/js/2.16ee1788.chunk.js.map": "/static/js/2.16ee1788.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cd622d42fb7402ab525f3bb20474c2f8.js": "/precache-manifest.cd622d42fb7402ab525f3bb20474c2f8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.34d43785.chunk.css.map": "/static/css/main.34d43785.chunk.css.map"
+    "main.css": "/from-a-number-to-a-string/static/css/main.34d43785.chunk.css",
+    "main.js": "/from-a-number-to-a-string/static/js/main.88d33e52.chunk.js",
+    "main.js.map": "/from-a-number-to-a-string/static/js/main.88d33e52.chunk.js.map",
+    "runtime~main.js": "/from-a-number-to-a-string/static/js/runtime~main.27b5e04a.js",
+    "runtime~main.js.map": "/from-a-number-to-a-string/static/js/runtime~main.27b5e04a.js.map",
+    "static/js/2.16ee1788.chunk.js": "/from-a-number-to-a-string/static/js/2.16ee1788.chunk.js",
+    "static/js/2.16ee1788.chunk.js.map": "/from-a-number-to-a-string/static/js/2.16ee1788.chunk.js.map",
+    "index.html": "/from-a-number-to-a-string/index.html",
+    "precache-manifest.d097c4f1a91cdd4381cc66e24aa61401.js": "/from-a-number-to-a-string/precache-manifest.d097c4f1a91cdd4381cc66e24aa61401.js",
+    "service-worker.js": "/from-a-number-to-a-string/service-worker.js",
+    "static/css/main.34d43785.chunk.css.map": "/from-a-number-to-a-string/static/css/main.34d43785.chunk.css.map"
   }
 }
