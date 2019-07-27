@@ -4,11 +4,11 @@ import PropTypes from "prop-types";
 require("./Keyboard.css");
 
 const Keyboard = ({ onDigitPress }) => {
-  const allowed = [9, 8, 7, 6, 5, 4, 3, 2, 1, ".", 0, "CL"];
+  const allowed = ["9", "8", "7", "6", "5", "4", "3", "2", "1", ".", "0", "CL"];
 
   useEffect(() => {
     const listener = e => {
-      if (e.target === document.body && allowed.find(d => d + "" === e.key)) {
+      if (e.target === document.body && allowed.find(d => d === e.key + "")) {
         onDigitPress(e.key);
       }
     };
