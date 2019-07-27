@@ -8,12 +8,12 @@ const Keyboard = ({ onDigitPress }) => {
 
   useEffect(() => {
     const listener = e => {
-      if (allowed.find(d => d + "" === e.key)) {
+      if (e.target === document.body && allowed.find(d => d + "" === e.key)) {
         onDigitPress(e.key);
       }
     };
-    window.addEventListener("keypress", listener);
-    return () => window.removeEventListener("keypress", listener);
+    document.body.addEventListener("keypress", listener);
+    return () => document.body.removeEventListener("keypress", listener);
   }, [allowed, onDigitPress]);
 
   return (
