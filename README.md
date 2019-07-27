@@ -4,6 +4,10 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
+## Demo
+
+[https://staydistributed.github.io/from-a-number-to-a-string](https://staydistributed.github.io/from-a-number-to-a-string)
+
 ```
 $ npm i @staydistributed/fantas
 ```
@@ -69,8 +73,6 @@ const myLocales = {
 
 const fromNumberToEnglish = new Fantas({ locales: myLocales }).transform;
 ```
-
-[https://staydistributed.github.io/from-a-number-to-a-string](https://staydistributed.github.io/from-a-number-to-a-string)
 
 [build-badge]: https://travis-ci.com/StayDistributed/from-a-number-to-a-string.svg?branch=master
 [build]: https://travis-ci.com/StayDistributed/from-a-number-to-a-string

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/from-a-number-to-a-string/static/css/main.bd030676.chunk.css",
+    "main.css": "/from-a-number-to-a-string/static/css/main.1dd803a1.chunk.css",
     "main.js": "/from-a-number-to-a-string/static/js/main.5d7c3a9f.chunk.js",
     "main.js.map": "/from-a-number-to-a-string/static/js/main.5d7c3a9f.chunk.js.map",
     "runtime~main.js": "/from-a-number-to-a-string/static/js/runtime~main.27b5e04a.js",
@@ -8,8 +8,8 @@
     "static/js/2.2216266c.chunk.js": "/from-a-number-to-a-string/static/js/2.2216266c.chunk.js",
     "static/js/2.2216266c.chunk.js.map": "/from-a-number-to-a-string/static/js/2.2216266c.chunk.js.map",
     "index.html": "/from-a-number-to-a-string/index.html",
-    "precache-manifest.e718f905eae0d3f94838d1db9000f9b5.js": "/from-a-number-to-a-string/precache-manifest.e718f905eae0d3f94838d1db9000f9b5.js",
+    "precache-manifest.87bca86680d092b17d719695145d747e.js": "/from-a-number-to-a-string/precache-manifest.87bca86680d092b17d719695145d747e.js",
     "service-worker.js": "/from-a-number-to-a-string/service-worker.js",
-    "static/css/main.bd030676.chunk.css.map": "/from-a-number-to-a-string/static/css/main.bd030676.chunk.css.map"
+    "static/css/main.1dd803a1.chunk.css.map": "/from-a-number-to-a-string/static/css/main.1dd803a1.chunk.css.map"
   }
 }
