@@ -73,9 +73,6 @@ describe("Module template", () => {
       "negative fifty",
       "Negative numbers should include the word 'negative' before the first digit."
     );
-    expect(numberToEnglish(-1234567899)).toEqual(
-      "negative one billion two hundred and thirty-four million five hundred and sixty-seven thousand eight hundred and ninety-nine",
-      "1,234,567,899"
-    );
+    expect(numberToEnglish(568372657465895665)).toEqual("Out of range");
   });
 });

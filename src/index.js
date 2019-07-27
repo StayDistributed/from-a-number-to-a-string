@@ -52,6 +52,13 @@ function Fantas({ locales = null, fixed = 5 } = {}) {
     }
 
     /**
+     * Out of range
+     */
+    if (num > 2 * Math.pow(10, 15)) {
+      return "Out of range";
+    }
+
+    /**
      * Floor
      */
     let floor = [];
